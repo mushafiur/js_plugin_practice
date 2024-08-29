@@ -1,0 +1,38 @@
+.header{
+	padding:30px;
+}
+.header_c{
+	padding:150px;
+}
+.countup_header{
+	color: white;
+	text-transform: uppercase;
+}
+.counters{
+	padding:50px;
+}
+.youtube{
+	color: #FF0000;
+
+}
+.twitter{
+	color: #1DA1F2;
+
+}
+.facebook{
+	color: #3b5998;
+
+}
+.linkedin{
+	color: #4267B2;
+
+}
+
+.wow{
+	height: 500px;
+}
+.animation h2{
+	padding: 200px;
+	font-size: 35px;
+	color: white;
+}
